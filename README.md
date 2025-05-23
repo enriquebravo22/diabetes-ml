@@ -60,5 +60,5 @@ The goal is to **build a predictive model** that can accurately classify a patie
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/diabetes-ml.git
+   git clone https://github.com/enriquebravo22/diabetes-ml.git
    cd diabetes-ml
